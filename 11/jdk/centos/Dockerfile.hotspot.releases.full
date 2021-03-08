@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-FROM centos:7
+FROM 28680e87-kr1-registry.container.cloud.toast.com/centos:7
 
 ENV LANG='en_US.UTF-8' LANGUAGE='en_US:en' LC_ALL='en_US.UTF-8'
 
